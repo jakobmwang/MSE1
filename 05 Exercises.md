@@ -16,13 +16,13 @@ b. Reduce the expression as much as possible and create the corresponding logic 
 <details>
 <br>
 <summary> </summary>
-<img src="../src/logic1.png" width = "200">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/logic1.png" width = "200">
 </details>
 <br>
 
 c. Use Boolean algebra to simplify the following logic gate circuit and state the result as a boolean algebra expression.
 
-<img src="/05_Combinatorics_and_Probability_Theory/logic2.png" width = "400">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/logic2.png" width = "400">
 
 <details>
 <br>
@@ -189,7 +189,7 @@ a. Draw a Venn diagram showing the sample space and each of the events A and B.
 <details>
 <br>
 <summary> </summary>
-<img src="/05_Combinatorics_and_Probability_Theory/venn1.png" width = "300">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/venn1.png" width = "300">
 </details>
 <br>
 
