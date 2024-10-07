@@ -109,7 +109,7 @@ b. Determine the probability that a failure is due to disease or infection.
 
 Let $A, B$, and $C$ be three events with probabilities given:
 
-<img src="venn1.png" width = "200">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/venn1 (1).png" width = "200">
 
 Find the probabilites below. State you answers as irreducible fractions.
 
@@ -203,7 +203,7 @@ a. Based on this information, construct a 2 x 4 contingency table for the survey
 <br>
 <summary> </summary>
 
-<img src="contingency.png" width = "300">
+<img src="https://github.com/jakobmwang/MSE1/blob/main/src/contingency.png" width = "300">
 
 Technically, the sums and totals are not part of the contingency tables. They are added to make it easier to calculate the probabilities.
 
@@ -277,7 +277,7 @@ Only use time on this exercise if you have time left after completing the other 
 You choose a point $(A, B)$ uniformly at random in the unit square $\{(x, y): 0 \leq x, y \leq 1\}$.
 
 <p align="center">
-    <img src="challenge.png" width="200">
+    <img src="https://github.com/jakobmwang/MSE1/blob/main/src/challenge.png" width="200">
 </p>
 
 What is the probability that the equation
