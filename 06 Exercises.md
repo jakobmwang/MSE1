@@ -1,6 +1,5 @@
 ## Exercises: Conditional Probability and Bayes' Theorem
 
-Try to do the exercises without using ChatGPT. If you get stuck, you can use ChatGPT to help you along the way. I don't care if you have the correct answers or not; I care that you try to solve the problems - proritise learning over performance, as that will enhance your performance in the long run. In Denmark we have a saying: Peeing in your pants to keep warm. Using ChatGPT is like peeing in your pants to keep warm; it feels nice at first, but you will regret it later (and may just end up smelling like pee). And if you think about it, "pee" is literally in the word: ChatG-pee-T.
 
 ### Exercise 1: Recap
 
